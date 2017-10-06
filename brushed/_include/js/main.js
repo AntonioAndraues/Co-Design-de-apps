@@ -178,7 +178,9 @@ BRUSHED.fancyBox = function(){
 			helpers : {
 				media : {}
 			}
+			
 		});
+		
 	}
 }
 
